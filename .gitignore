@@ -3,3 +3,9 @@ dist/
 site/data/webpack.json
 /npm-debug.log
 yarn-error.log
+
+# misc
+.DS_Store
+.idea
+npm-debug.log*
+.vscode/launch.json
